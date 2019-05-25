@@ -15,6 +15,7 @@ Kwoty na kolejnych progach wyglądają następująco:
 10. 250 000 zł
 11.	500 000 zł
 12.	1 000 000 zł
+
 W czasie gry uczestnik ma do dyspozycji trzy koła ratunkowe. Może użyć ich w dowolnym momencie gry, jednak każdego tylko raz. Koła ratunkowe wyglądają następująco:
 1. 50:50 (pół na pół) - opcja, w której automatycznie odrzucone zostają 2 niepoprawne odpowiedzi, dzięki czemu szansa na trafienie dobrej wynosi 50%.
 2. Pytanie do publiczności - opcja, w której każdy z publiczności anonimowo głosuje na wybraną przez siebie odpowiedź. Następnie uczestnikowi prezentowana jest najczęściej wskazywany wariant. Od uczestnika zależy czy zaufa on przewidywaniom publiczności. 
