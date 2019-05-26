@@ -24,4 +24,6 @@ W czasie gry uczestnik ma do dyspozycji trzy koła ratunkowe. Może użyć ich w
 
 
 Uwaga! Prawdopodobieństwo poprawności wskazanej przez koło ratunkowe odpowiedzi maleje na daszych etapach gry!
+Odpowiedzi powinny być podawane przy użyciu wielkich liter!
+
 Grę prowadzi Hubert Urbański!
