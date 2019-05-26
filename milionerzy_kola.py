@@ -1,19 +1,17 @@
 import random
-import time
+
 kola_ratunkowe = ["Telefon do przyjaciela", "Pół na pół", "Pytanie do publiczności"]
 
 mozliwe_odp = ["A","B","C","D"]
 odp_wagi1 = [0.85,0.05,0.05,0.05]
 odp_wagi2 = [0.7,0.1,0.1,0.1]
 odp_wagi3 = [0.55,0.15,0.15,0.15]
-licznik=random.randint(1,12)
-print(licznik)
+
 kola_ratunkowe1=kola_ratunkowe
 print("Masz dostęp do kół ratunkowych:\n" ,"1. ", kola_ratunkowe1[0], "\n2. ", kola_ratunkowe1[1], "\n3. ", kola_ratunkowe1[2],"\n")
 
 kolo = str(input("Czy chcesz wykorzystać koło ratunkowe?\n"))
-odpowiedzi=["A"]
-i=0
+
 if kolo == "tak":
     x=0
     while x<1:
